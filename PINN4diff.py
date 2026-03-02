@@ -1,6 +1,6 @@
 """
 Physics-Informed Neural Network (PINN) for Multicomponent Alloy Diffusion
-Supplementary Material for Scientific Publication.
+Supplementary Material.
 
 ==============================================================================
 DESCRIPTION
